@@ -1,0 +1,6 @@
+{
+  "name": "Bulb Cafe Jaipur | Good Food, Great Vibes",
+  "description": "Bulb Cafe in Mansarovar, Jaipur — cozy vibes, delicious food, refreshing shakes, and memorable moments. Open until 11 PM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
